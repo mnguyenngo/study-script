@@ -74,6 +74,7 @@ if __name__ == '__main__':
     score = ""
 
     print("{} question(s) were created".format(i))
+    print("Type ^C anytime to quit." + '\n')
     while i > 0:
         question = choice(list(flash_cards.keys()))
         print(question)
@@ -88,4 +89,4 @@ if __name__ == '__main__':
             score += '+'
         else:
             score += '-'
-        print("Score: " + score + '\n' + "Type ^C to quit." + '\n')
+        print("Score: " + score + '\n')
