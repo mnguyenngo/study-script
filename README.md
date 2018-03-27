@@ -9,4 +9,4 @@ Turn your Jupyter notebooks into multiple choice, fill-in-the-blank questions.
 
 ![screenshot]
 
-[screenshot]: /images/screenshot.jpg
+[screenshot]: /images/screenshot.png
